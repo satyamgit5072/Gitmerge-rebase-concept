@@ -1,2 +1,4 @@
 line 1
 linenumber2
+line 2
+
